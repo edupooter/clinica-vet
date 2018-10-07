@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppCrudPetsDao</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ticker_text">Pesquisando...</string>
+    <string name="notification_title">Busca de Endereço</string>
+    <string name="service_name">MyService</string>
+    <string name="notification_message">Pesquisando Endereço</string>
+</resources>
