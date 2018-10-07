@@ -12,3 +12,6 @@ Foram aplicados os seguintes conceitos e tecnologias:
 - Service rodando em plano de fundo para logar o tempo de execução;
 - Conectividade HTTP com Retrofit2 e Butterknife para buscar dados JSON a partir de um webservice de CEP;
 - Banco de Dados SQLite nativo para persistência.
+
+Demo:
+https://youtu.be/3tiSxRNI1Vk
